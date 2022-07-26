@@ -1,0 +1,16 @@
+h1{color: rgb(101, 39, 208);}
+body{color: blue;}
+.bl{
+    color: aquamarine;
+    font-size: ;
+    font-weight: normal;
+    background-color: rgb(246, 205, 205);
+    padding: 30px;}
+
+h2{color: rgb(190, 44, 44);}
+
+ul li{list-style: circle;
+    color: rgb(255, 0, 0);
+    background-color: rgb(235, 243, 78);
+    padding: 10px;
+    }
